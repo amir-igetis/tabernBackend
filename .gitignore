@@ -32,6 +32,10 @@ build/
 ### VS Code ###
 .vscode/
 
-
+#custom
 src/main/resources/application.properties
+
+.env
+
+.dockerignore
 
